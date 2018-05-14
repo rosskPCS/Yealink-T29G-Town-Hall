@@ -7,27 +7,8 @@
     <name>Yealink T4X</name>
     <url>http://www.yealink.com</url>
     <models>
-      <model ua="SIP-T19P_E2">Yealink T19P E2</model>
-      <model ua="SIP-T19_E2">Yealink T19 E2</model>
-      <model ua="SIP-T21P_E2">Yealink T21P E2</model>
-      <model ua="SIP-T21_E2">Yealink T21 E2</model>
-      <model ua="SIP-T23P">Yealink T23P</model>
-      <model ua="SIP-T23G">Yealink T23G</model>
-      <model ua="SIP-T27P">Yealink T27P</model>
-      <model ua="SIP-T27G">Yealink T27G</model>
-      <model ua="SIP-T29G">Yealink T29G</model>
-      <model ua="SIP-T40P">Yealink T40P</model>
-      <model ua="SIP-T40G">Yealink T40G</model>
-      <model ua="SIP-T41S">Yealink T41S</model>
-      <model ua="SIP-T41P">Yealink T41</model>
-      <model ua="SIP-T42S">Yealink T42S</model>
-      <model ua="SIP-T42G">Yealink T42</model>
-      <model ua="SIP-T46S">Yealink T46S</model>
-      <model ua="SIP-T46G">Yealink T46</model>
-      <model ua="SIP-T48S">Yealink T48S</model>
-      <model ua="SIP-T48G">Yealink T48</model>
-      <model ua="SIP-T52S">Yealink T52S</model>
-      <model ua="SIP-T54S">Yealink T54S</model>
+      <model ua="SIP-T27G">Yealink T27G-PLV_TownHall_T29G</model>
+      <model ua="SIP-T29G">Yealink T29G-PLV_TownHall_T29G</model>
     </models>
     <description>Yealink T4X SIP Phone</description>
     <parsers>
