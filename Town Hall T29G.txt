@@ -2218,7 +2218,7 @@ features.special_auto_answer_tone =
 features.anonymous_response_code =
 
 # Only applicable to SIP-T46G/T48G/T29G/T48S/T46S IP phones
-features.config_dsskey_length =
+features.config_dsskey_length = 2
 
 #The following parameter only applicable to V80
 features.reboot_in_talk_enable =
